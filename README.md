@@ -16,10 +16,10 @@
     <b>🔭 </b>Currently working on few interesting ideas in the domain of DL
   </li>
   <li>
-    <b>👯 </b>Looking to collaborate on new project ideas realted to AI/ML/DL, feel free to reachout
+    <b>🤝 </b>Looking to collaborate on project ideas realted to AI/ML/DL, feel free to connect
   </li>
   <li>
-    <b>🤔 </b>Actively looking for job opurtunities in interested field, related to Data Science and Machine Learning Engineer
+    <b>🔎 </b>Actively looking for job opurtunities in interested field, related to Data Science and Machine Learning Engineer
   </li>
   <li>
     <b>📫 </b>You can reach me out on LinkedIn
