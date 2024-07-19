@@ -4,9 +4,9 @@
 <div>
 <h2 align="center">Hi there 👋</h2>
   <div align="center">
-  <a href='https://www.linkedin.com/in/niharpatel371/' target="_blank">
-    <img src="https://github.com/user-attachments/assets/2db375c5-8946-45f2-a6e4-0adcdc9a4bc3" align="right" width="300" >
-  </a>
+    <a href='https://www.linkedin.com/in/niharpatel371/' target="_blank">
+      <img src="https://github.com/user-attachments/assets/08502564-be61-4ed5-adb3-5bad4660a3cd" align="right" width="300" >
+    </a>
   </div>
   
   <li>
