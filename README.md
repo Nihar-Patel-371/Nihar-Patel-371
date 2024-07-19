@@ -1,30 +1,35 @@
+---
+---
+
 <div>
 <h2 align="center">Hi there 👋</h2>
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/2db375c5-8946-45f2-a6e4-0adcdc9a4bc3" align="right" width="300">
+  <a href='https://www.linkedin.com/in/niharpatel371/' target="_blank">
+    <img src="https://github.com/user-attachments/assets/2db375c5-8946-45f2-a6e4-0adcdc9a4bc3" align="right" width="300" >
+  </a>
   </div>
   
   <li>
-    <b>🌱</b>Currently pursuing my Masters in Data Science at Stevens Institute of Technology
+    <b>🌱 </b>Currently pursuing my Masters in Data Science at Stevens Institute of Technology
   </li>
   <li>
-    <b>🔭</b>Currently working on few interesting ideas in the domain of DL
+    <b>🔭 </b>Currently working on few interesting ideas in the domain of DL
   </li>
   <li>
-    <b>👯</b>Looking to collaborate on new project ideas realted to AI/ML/DL, feel free to reachout
+    <b>👯 </b>Looking to collaborate on new project ideas realted to AI/ML/DL, feel free to reachout
   </li>
   <li>
-    <b>🤔</b>Actively looking for job opurtunities in interested field, related to Data Science and Machine Learning Engineer
+    <b>🤔 </b>Actively looking for job opurtunities in interested field, related to Data Science and Machine Learning Engineer
   </li>
   <li>
-    <b>📫</b>You can reach me out on LinkedIn
+    <b>📫 </b>You can reach me out on LinkedIn
   </li><br>
   </div>
 <div>
 
 <div align="center">
-  <a href='https://www.linkedin.com/in/niharpatel371/'>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin logo"  />
+  <a href='https://www.linkedin.com/in/niharpatel371/' target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin logo" />
   </a>
 </div>
 
