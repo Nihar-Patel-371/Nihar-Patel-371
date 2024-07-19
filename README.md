@@ -1,21 +1,39 @@
-## Hi there 👋
+<div>
+<h2 align="center">Hi there 👋</h2>
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/2db375c5-8946-45f2-a6e4-0adcdc9a4bc3" align="right" width="300">
+  </div>
+  
+  <li>
+    <b>🌱</b>Currently pursuing my Masters in Data Science at Stevens Institute of Technology
+  </li>
+  <li>
+    <b>🔭</b>Currently working on few interesting ideas in the domain of DL
+  </li>
+  <li>
+    <b>👯</b>Looking to collaborate on new project ideas realted to AI/ML/DL, feel free to reachout
+  </li>
+  <li>
+    <b>🤔</b>Actively looking for job opurtunities in interested field, related to Data Science and Machine Learning Engineer
+  </li>
+  <li>
+    <b>📫</b>You can reach me out on LinkedIn
+  </li><br>
+  </div>
+<div>
 
-<!--
-**Nihar-Patel-371/Nihar-Patel-371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href='https://www.linkedin.com/in/niharpatel371/'>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin logo"  />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
-<h2 align="left">My Tech Stack</h2>
+<h2 align="center">My Tech Stack 🤖</h2>
 
 ###
 
@@ -85,9 +103,12 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
 </div>
 
+---
+---
+
 ###
 
-<h2 align="left">Stats are IMPORTANT</h2>
+<h2 align="center">Stats are IMPORTANT 🚀</h2>
 
 ###
 
