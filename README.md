@@ -19,7 +19,7 @@
     <b>🤝 </b>Looking to collaborate on project ideas related to AI/ML/DL, feel free to connect
   </li>
   <li>
-    <b>🔎 </b>Actively looking for job opportunities in fields, related to Data Science and Machine Learning
+    <b>🔎 </b>Actively looking for job opportunities in fields, related to Data Science and ML
   </li>
   <li>
     <b>📫 </b>You can reach me on LinkedIn
