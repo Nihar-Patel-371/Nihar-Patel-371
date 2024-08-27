@@ -13,16 +13,16 @@
     <b>🌱 </b>Currently pursuing my Masters in Data Science at Stevens Institute of Technology
   </li>
   <li>
-    <b>🔭 </b>Currently working on few interesting ideas in the domain of DL
+    <b>🔭 </b>Currently working on a few interesting ideas in the domain of DL
   </li>
   <li>
-    <b>🤝 </b>Looking to collaborate on project ideas realted to AI/ML/DL, feel free to connect
+    <b>🤝 </b>Looking to collaborate on project ideas related to AI/ML/DL, feel free to connect
   </li>
   <li>
-    <b>🔎 </b>Actively looking for job opurtunities in interested field, related to Data Science and Machine Learning Engineer
+    <b>🔎 </b>Actively looking for job opportunities in fields, related to Data Science and Machine Learning
   </li>
   <li>
-    <b>📫 </b>You can reach me out on LinkedIn
+    <b>📫 </b>You can reach me on LinkedIn
   </li><br>
   </div>
 <div>
