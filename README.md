@@ -10,7 +10,7 @@
   </div>
   
   <li>
-    <b>🌱 </b>Currently pursuing my Masters in Data Science at Stevens Institute of Technology
+    <b>🌱 </b>Currently pursuing my Masters in Data Science at Stevens Institute of Tech.
   </li>
   <li>
     <b>🔭 </b>Currently working on a few interesting ideas in the domain of DL
