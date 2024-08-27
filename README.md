@@ -16,7 +16,7 @@
     <b>🔭 </b>Currently working on a few interesting ideas in the domain of DL
   </li>
   <li>
-    <b>🤝 </b>Looking to collaborate on project ideas related to AI/ML/DL, feel free to connect
+    <b>🤝 </b>Looking to collaborate on project ideas, feel free to connect
   </li>
   <li>
     <b>🔎 </b>Actively looking for job opportunities in fields, related to Data Science and ML
