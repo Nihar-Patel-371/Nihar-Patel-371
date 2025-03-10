@@ -13,9 +13,6 @@
     <b>🌱 </b>Currently pursuing my Masters in Data Science at Stevens Institute of Tech.
   </li>
   <li>
-    <b>🔭 </b>Currently working on a few interesting ideas in the domain of DL
-  </li>
-  <li>
     <b>🤝 </b>Looking to collaborate on project ideas, feel free to connect
   </li>
   <li>
